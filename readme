@@ -1,0 +1,6 @@
+# Fake Audio detection
+
+.. used ASV Spoof 2 dataset for fake audio detection and used keras image data generator for fake audio detection.
+
+## Project Video Link: 
+https://youtu.be/7vexHrfTIu0
